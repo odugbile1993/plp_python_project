@@ -2,7 +2,7 @@
 
 This project explores COVID-19 trends across **Kenya**, **United States**, and **India** using data from [Our World in Data (OWID)](https://covid.ourworldindata.org). The goal is to understand case progression, death rates, and vaccination trends through data cleaning, exploratory data analysis (EDA), and visualization.
 
----
+
 
 ## 📁 Dataset
 
@@ -10,7 +10,7 @@ This project explores COVID-19 trends across **Kenya**, **United States**, and *
 - **Format**: CSV
 - **Coverage**: Global, daily updates per country
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -20,7 +20,7 @@ This project explores COVID-19 trends across **Kenya**, **United States**, and *
 - **Plotly Express** – for interactive choropleth map (optional)
 - **Jupyter Notebook / Google Colab**
 
----
+
 
 ## ✅ Project Workflow
 
@@ -45,7 +45,7 @@ This project explores COVID-19 trends across **Kenya**, **United States**, and *
 ### 5️⃣ Insights Summary
 - Markdown-based conclusions highlighting patterns, anomalies, and key takeaways
 
----
+
 
 ## 📊 Visual Outputs
 
@@ -54,7 +54,7 @@ This project explores COVID-19 trends across **Kenya**, **United States**, and *
 - 📊 Bar charts (vaccination comparison)
 - 🌍 Interactive map (if enabled)
 
----
+
 
 ## 📌 Key Insights (Example)
 
@@ -65,7 +65,7 @@ This project explores COVID-19 trends across **Kenya**, **United States**, and *
 
 *See full analysis in the notebook.*
 
----
+
 
 ## 📂 File Structure
 
@@ -74,3 +74,4 @@ This project explores COVID-19 trends across **Kenya**, **United States**, and *
 ├── README.md                  # Project documentation
 ├── requirements.txt           # (Optional) Required packages
 └── images/                    # (Optional) Saved plots
+
